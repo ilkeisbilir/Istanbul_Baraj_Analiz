@@ -23,8 +23,8 @@ Bu proje kapsamında İstanbul bünyesindeki baraj sularının zaman serisi anal
 Proje ekibi adına teşekkür ederiz!
 
 **Proje Ekibi:** 
-İlke İŞBİLİR
-Egemen ATAM
-Yaren ÇORUH
-Esin Derya Kalender
+- İlke İŞBİLİR  
+- Egemen ATAM
+- Yaren ÇORUH
+- Esin Derya Kalender
 
